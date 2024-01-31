@@ -128,7 +128,7 @@ _Example:_
 
 ```graphql
 type Person {
-  fiends: [Person]!
+  friends: [Person]!
 }
 ```
 
